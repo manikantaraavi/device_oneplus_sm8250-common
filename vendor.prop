@@ -175,11 +175,12 @@ ro.hardware.vulkan=adreno
 ro.opengles.version=196610
 vendor.gralloc.disable_ubwc=0
 debug.sf.frame_rate_multiple_threshold=120
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
 
 # SkiaGL
 debug.renderengine.backend=skiaglthreaded
 renderthread.skia.reduceopstasksplitting=true
-
 # Incremental FS
 ro.incremental.enable=true
 
