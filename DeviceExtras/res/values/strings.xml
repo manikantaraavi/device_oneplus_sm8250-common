@@ -125,15 +125,4 @@
 
     <string name="touchscreen_gesture_settings_title">TouchScreen Gestures</string>
     <string name="touchscreen_gesture_settings_summary">Perform various touchscreen gestures for quick actions</string>
-
-    <!-- Dolby -->
-    <string name="dolby_category">Dolby</string>
-    <string name="enable_dolby_title">Dolby Atmos</string>
-    <string name="enable_dolby_summary">Switching requires a reboot to take effect</string>
-    <string name="dolby_title">Configuration</string>
-    <string name="dolby_summary">Configure the audio output based on media content</string>
-
-    <string name="edge_touch_title">Unlimit edge touch</string>
-    <string name="edge_touch_summary">Improve your multi-touch experience in games</string>
-    <string name="edge_touch_warning">May increase the possibility of accidental touch</string>
 </resources>
